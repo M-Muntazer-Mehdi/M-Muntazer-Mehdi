@@ -1,20 +1,17 @@
 
-<img  align="center" width="1000" src="https://i.ibb.co/wJPm2HH/Black-Modern-Graphic-Designer-Linked-In-Banner.png">
+<img  align="center" width="1000" src="https://i.postimg.cc/bvnGCY2t/Black-Modern-Graphic-Designer-Linked-In-Banner-1.png">
 <h1 align="center">Hi 👋, I'm Muntazer Mehdi</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-muntazer-mehdi&label=Profile%20views&color=0e75b6&style=flat" alt="m-muntazer-mehdi" /> </p>
-
-<img  align="right" alt="Coding" width="355" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 - I’m currently learning **TypeScript, MonogoDB**
 
-- I am proficient in various programming languages and libraries, with expertise in REACT, REACT NATIVE, JAVASCRIPT, NEXT JS, and C# & JAVA. My skill set extends to PYTHON & DART for versatile application development. In web technologies, I excel in HTML5 and CSS3, complemented by STYLED-COMPONENTS, TAILWIND CSS, MATERIAL-UI, and BOOTSTRAP. My toolbox includes GIT, GITHUB, GITLAB, JIRA, JENKINS, and AWS & DOCKER for robust development workflows. For database management, I am proficient in MYSQL, POSTGRESQL, FIREBASE, and SQLITE. My design skills are highlighted by proficiency in FIGMA and ADOBE XD.
+- I am a full stack software developer and Software Architect, specializing in designing scalable systems and leading cross-functional teams. My passion for immersive e-sports games enhances my problem-solving skills, while my dedication to fashion reflects my unique personal style.
 
 
 - 📫 How to reach me **muntazer.mehdi.rizvi@gmail.com**
-- 🔭 Working on Websites/Roblox Development
+- 🔭 [Portfolio](https://muntazer-portfolio.vercel.app/)
 
 
 ## Connect with me:
@@ -27,7 +24,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?fi=vscode,github,mongodb,css,html,js,express,nodejs,androidstudio,bootstrap,c,cpp,cs,cpp,flutter,dotnet,figma,firebase,css,html,git,java,mysql,sqlite,xd,bash,haskell,postman,tailwind,react"> </a> </p>
+<p align="center"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,express,nodejs,androidstudio,bootstrap,c,cpp,cs,cpp,flutter,dotnet,figma,firebase,css,html,git,java,mysql,sqlite,xd,bash,haskell,postman,tailwind,react,py,dart,styledcomponents,materialui,gitlab,jenkins,aws,docker,postgres,eclipse,matlab,notion,npm,ps,r"> </a> </p>
 
 ## My Stats:
 <p align="center">
