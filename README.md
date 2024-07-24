@@ -27,13 +27,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,express,nodejs,androidstudio,bootstrap,c,cpp,cs,cpp,flutter,dotnet,figma,firebase,css,html,git,java,mysql,sqlite"> </a> </p>
-
-<div align="center">
-  <img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  <img width="100" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  <img width="100" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="auto" height="40"/>
-</div>
+<p align="center"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?fi=vscode,github,mongodb,css,html,js,express,nodejs,androidstudio,bootstrap,c,cpp,cs,cpp,flutter,dotnet,figma,firebase,css,html,git,java,mysql,sqlite,xd,bash,haskell,postman,tailwind,react"> </a> </p>
 
 ## My Stats:
 <p align="center">
