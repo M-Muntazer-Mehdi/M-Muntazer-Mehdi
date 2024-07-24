@@ -27,29 +27,9 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,express,nodejs,androidstudio,bootstrap,c,cpp,cs,cpp,flutter,dotnet,figma,firebase,css,html,git,java,mysql,sqlite"> </a> </p>
+
 <div align="center">
-  <img  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  <img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <br/>
-  <p>&nbsp;</p>
-  <img width="50" src="https://i.ibb.co/HYNPXzD/pngwing-com.png" alt="Flutter" width="auto" height="40"/>
-  <img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  <img width="100" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img width="100" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <br/>
-    <p>&nbsp;</p>
-  <img width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <br/>
-    <p>&nbsp;</p>
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   <img width="100" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
   <img width="100" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="auto" height="40"/>
@@ -69,13 +49,16 @@
 
 ## Most Used Languages
 
+
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Muntazer-Mehdi&hide_progress=true&hide_border=true&show_icons=true&count_private=true&theme=dark&bg_color=1F222E">
 </p>
 
 
+
+
 ## Top Respositorys
-  <p align="left">
+  <p align="center">
      <a href="https://github.com/Final-Year-Project-ShipEase"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Final-Year-Project-ShipEase&repo=shipease-frontend&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/M-Muntazer-Mehdi/Retail-Behavior-Analyzer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=M-Muntazer-Mehdi&repo=Retail-Behavior-Analyzer&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/ChatCool-Inc/chatcool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=M-Muntazer-Mehdi&repo=Arabic-Dictionary&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -83,6 +66,5 @@
 
 ## GitHub Trophy
 
-<p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=M-Muntazer-Mehdi&theme=juicyfresh" /></a> </p>
+<p  align="center"> <img src="https://github-profile-trophy.vercel.app/?username=M-Muntazer-Mehdi&theme=darkhub&column=3&margin-w=15&margin-h=15" /></p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
